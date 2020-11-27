@@ -145,6 +145,18 @@ header {
     margin-left: 28px;
 }
 
+.header_cont .img1 {
+    max-width: 78px;
+}
+
+.header_cont .img1 {
+    max-width: 151px;
+}
+
+.header_cont .img1 {
+    max-width: 95px;
+}
+
 .content {
     padding: 33px 44px 118px 61px;
 }
